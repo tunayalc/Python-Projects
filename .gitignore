@@ -1,0 +1,19 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Data & outputs
+*.csv
+*.xlsx
+*.json
+*.jsonl
+*.txt
+!requirements.txt
+
+# OS
+.DS_Store
+Thumbs.db

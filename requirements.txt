@@ -1,0 +1,11 @@
+﻿numpy
+pandas
+matplotlib
+scipy
+statsmodels
+scikit-learn
+stanza
+networkx
+praw
+python-docx
+pygame
